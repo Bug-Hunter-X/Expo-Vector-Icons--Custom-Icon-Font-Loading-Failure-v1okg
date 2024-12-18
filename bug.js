@@ -1,0 +1,1 @@
+This error occurs when using Expo's `@expo/vector-icons` package with a custom icon font.  The error message might vary slightly depending on the specifics, but it generally indicates that the icon family isn't being loaded or found correctly.  The error could manifest as a blank space where the icon should be or a runtime error related to an undefined icon.
